@@ -9,7 +9,7 @@ body {
 }
 
 button {
-  height: 40px;
+  height: 45px;
   width: 110px;
   border-radius: 5px;
   border: 1px solid darkgreen;
@@ -22,7 +22,7 @@ button {
 
 /*header*/
 header {
-  background:linear-gradient(rgb(58,192,117), rgb(38,153,86));
+  background:linear-gradient(rgb(58,192,117), rgb(43,165,94));
   padding: 20px;
   color: white;
 }
@@ -51,7 +51,7 @@ main {
   margin-left: auto;
   margin-right: auto;
   border-radius: 8px;
-  padding: 30px 50px;
+  padding: 30px;
   box-shadow: 0 0 1em lightgray;
 }
 
@@ -73,7 +73,7 @@ textarea {
   margin: 20px 0 5px 0;
   height: 80px;
   border-radius: 8px;
-  border-color: gray;
+  border-color: rgba(14, 14, 14, 0.28);
   width: 100%;
   padding: 15px;
   font-size: 18px;
